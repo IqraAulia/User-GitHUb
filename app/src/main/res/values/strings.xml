@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GitHubUser</string>
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="write_your_review_here">Write your review here..</string>
+    <string name="send">Kirim</string>
+    <string name="name">nama</string>
+    <string name="id">id</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="searchbar_hint">Mau cari siapa</string>
+    <string name="folower">Follower</string>
+    <string name="folowing">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">following</string>
+    <string name="tab_text_2">follower</string>
+    <string name="dark_mode">Dark Mode</string>
+
+
+</resources>
